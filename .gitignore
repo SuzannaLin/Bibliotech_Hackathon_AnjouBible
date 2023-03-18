@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+images
+miniconda3
+Miniconda3-latest-Linux-x86_64.sh
+.cache
+ondemand/
+miniconda3/
+.ipynb_checkpoints
+
