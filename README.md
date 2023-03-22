@@ -6,9 +6,6 @@
  
 This illuminated Bible, known as the Anjou Bible or Bible Angevine, is an absolute masterpiece from the 14th century. It is richly adorned and was created in Naples around the year 1340 at the court of Robert of Anjou. It consists of 338 folios with two miniatures covering entire pages and over 160 smaller miniatures. After many journeys, the manuscript ended up in the archiepiscopal seminary of Mechlin in the 19th century, until it was deposited in the Maurits Sabbe Library in 1974. In 2008, following the 'Masterpieces Decree', the Flemish Community granted it the title of Flemish Masterpiece.
 
-![ Alt text](https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Character%20Animation%2001_test.gif)
-
-
 <img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Character%20Animation%2001_test.gif" width="50%" height="50%">
 
 ## Goals and Output
@@ -22,8 +19,7 @@ Create an interactive website that makes it possible for the general public to i
 	
 Create a character set based on the illuminated initials that will be displayed on the website and can be used for other projects.
 
-
-<img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Anjou/199_wo_bg_bigA.png" width="50%" height="50%">
+<img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Anjou/199_wo_bg_bigA.png" width="40%" height="40%">
 
 
 ## Methodology
