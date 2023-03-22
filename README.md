@@ -19,6 +19,9 @@ Create an interactive website that makes it possible for the general public to i
 	
 Create a character set based on the illuminated initials that will be displayed on the website and can be used for other projects.
 
+![ Alt text](https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Anjou/199_wo_bg_bigA.png)
+
+
 ## Methodology
 
 
