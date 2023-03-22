@@ -33,6 +33,10 @@ Using a classification network, we can filter out specific categories such as ho
 	
 The website uses Bootstrap, an open source development framework, and displays the illustrations of the Anjou Bible grouped in collections (letters, animals, etc.)
 
+
+<img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Anjou/101_wo_bg_dragon.png" width="40%" height="40%">
+
+
 ## Anjou Bible Timeline
 
 1340 - A bible (now known as the 'Anjou Bible') is commissioned by Robert, King of Naples, also known as Robert I of Anjou (Italian: Roberto d'Angiò) as a wedding present for his granddaughter Joanna and her Hungarian fiancé Andrew of Hungary
