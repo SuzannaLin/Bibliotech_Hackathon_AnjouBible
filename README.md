@@ -8,6 +8,9 @@ This illuminated Bible, known as the Anjou Bible or Bible Angevine, is an absolu
 
 ![ Alt text](https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Character%20Animation%2001_test.gif)
 
+
+<img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Character%20Animation%2001_test.gif" width="50%" height="50%">
+
 ## Goals and Output
 
 	
