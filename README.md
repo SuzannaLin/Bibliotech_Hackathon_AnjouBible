@@ -50,6 +50,9 @@ The website uses Bootstrap, an open source development framework, and displays t
 2010 - Anjou Bible is exhibited to the public for twelve weeks at Museum M in Leuven
 
 
+<img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Anjou/199_wo_bg_swirl.png" width="40%" height="40%">
+
+
 ## Team members
 Agni Vourtsi
 Austine Jesuvera Crasta
