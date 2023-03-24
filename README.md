@@ -56,11 +56,11 @@ The website uses Bootstrap, an open source development framework, and displays t
 
 
 ## Team members
-Agni Vourtsi
-Austine Jesuvera Crasta
-Courtney Van de Mosselaer
-Joachim Bovin (TL)
-Ni Li
-Sandra Elpers
-Suzanna Cuypers
+Agni Vourtsi,
+Austine Jesuvera Crasta,
+Courtney Van de Mosselaer,
+Joachim Bovin (TL),
+Ni Li,
+Sandra Elpers,
+Suzanna Cuypers,
 Yun Liu (TL)
