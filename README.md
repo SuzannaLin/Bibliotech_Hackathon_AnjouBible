@@ -6,6 +6,8 @@
  
 This illuminated Bible, known as the Anjou Bible or Bible Angevine, is an absolute masterpiece from the 14th century. It is richly adorned and was created in Naples around the year 1340 at the court of Robert of Anjou. It consists of 338 folios with two miniatures covering entire pages and over 160 smaller miniatures. After many journeys, the manuscript ended up in the archiepiscopal seminary of Mechlin in the 19th century, until it was deposited in the Maurits Sabbe Library in 1974. In 2008, following the 'Masterpieces Decree', the Flemish Community granted it the title of Flemish Masterpiece.
 
+Explore the illuminations of the Anjou Bible on our website: https://www.arts.kuleuven.be/hackathon/group1/
+
 View our poster at https://zenodo.org/record/7762363#.ZB15T3bMJPY
 
 <img src="https://github.com/SuzannaLin/Bibliotech_Hackathon_AnjouBible/blob/main/Character%20Animation%2001_test.gif" width="50%" height="50%">
